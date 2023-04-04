@@ -10,4 +10,4 @@ All For One was a project made for study purpose.
 - MySql.
 
 ## Contributors: 
-I made the src and the tests folder and all the content inside it. the other files were made by Trybe.
+I made all the files that start with "desafio" and the other files were made by trybe.
